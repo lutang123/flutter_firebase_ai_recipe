@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760186099525",
+    "project_id": "flutter-firebase-ai-recipe",
+    "storage_bucket": "flutter-firebase-ai-recipe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760186099525:android:f290563578c93c19ab902c",
+        "android_client_info": {
+          "package_name": "com.example.gemini_io_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnIK3J-joQzKrayQOkgZm7YB9aXS8aPAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
